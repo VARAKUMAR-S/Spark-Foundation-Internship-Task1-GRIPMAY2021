@@ -1,4 +1,4 @@
-# Sparks-Foundatation-Internship-Task1-GRIPMAY2021
+# Spark-Foundation-Internship-Task1-GRIPMAY2021
 
 THE SPARK FOUNDATION INTERNSHIP #GRIPMAY21
 Task1: Prediction using Supervised ML
